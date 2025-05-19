@@ -1,0 +1,31 @@
+# macOS metadata
+.DS_Store
+
+# Python virtual environment
+myenv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Generated images and plots
+calibration_curves/
+*.png
+
+# Reports and CSV outputs
+analysis_report.pdf
+tpr_at_thresholds.csv
+*.csv
+
+# Word and Excel drafts
+*.docx
+*.xls
+*.xlsx
+
+# R temporary/history files
+.Rhistory
+.RData
+.Rapp.history
+
+# Duplicate code folder (if you haven’t merged it)
+Codes/
